@@ -1,0 +1,2 @@
+(library
+ (name z3_fstar_testing))

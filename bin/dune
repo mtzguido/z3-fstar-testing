@@ -1,0 +1,6 @@
+(executable
+ (public_name z3_fstar_testing)
+ (name main)
+ (libraries
+  unix
+  z3_fstar_testing))
