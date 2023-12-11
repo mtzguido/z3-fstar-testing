@@ -3,4 +3,6 @@
  (name main)
  (libraries
   unix
-  z3_fstar_testing))
+  domainslib
+  z3_fstar_testing
+))
